@@ -9,4 +9,4 @@ El sistema está creado utlizando las tecnologías HTML5, CCS3 con Bootstrap (po
 
 <a href="pabloruiz.ar" target="_BLANK">sdasdf</a>
 
-[![Convidame un Matecito](https://www.matecito.co/public/button_11.svg)](https://matecito.co/pabloruiz1980)
+[![Convidame un Matecito](https://www.matecito.co/public/button_11.svg)](https://matecito.co/pabloruiz1980){:target="_blank" rel="noopener"}
